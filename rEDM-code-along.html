@@ -12,7 +12,7 @@
 
 <meta name="author" content="Hao Ye &amp; Ethan White" />
 
-<meta name="date" content="2019-07-28" />
+<meta name="date" content="2019-07-29" />
 
 <title>rEDM Primer</title>
 
@@ -366,7 +366,7 @@ summary {
 
 <h1 class="title toc-ignore">rEDM Primer</h1>
 <h4 class="author">Hao Ye &amp; Ethan White</h4>
-<h4 class="date">2019-07-28</h4>
+<h4 class="date">2019-07-29</h4>
 
 </div>
 
@@ -431,6 +431,11 @@ x_2(t+1) &amp;= r_2 x_2(t) \left[1 - x_2(t) - \alpha_{2,1} x_1(t)\right]
 <h2>Usage</h2>
 <ul>
 <li>Need to estimate <span class="math inline">\(G_i\)</span> from the data</li>
+<li>Typically think of this as fitting an equation, but <span class="math inline">\(G\)</span> is arbitrarily complex</li>
+<li>And since we’re focusing on prediction we don’t need the equation, we just need to know what is going to happen next</li>
+<li>And we can get this prediction by looking through the existing time-series and finding periods that look like the current period (<em>draw example</em>)</li>
+<li>These historical periods should reflect the same dynamics of <span class="math inline">\(G\)</span> and therefore the same state variables in <span class="math inline">\(F\)</span></li>
+<li>Which should mean that what happens next in these periods should match what happens next now.</li>
 <li>Use the simplest, simplex projection</li>
 <li>Weighted nearest-neighbors approximation:</li>
 </ul>
