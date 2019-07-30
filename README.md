@@ -5,4 +5,6 @@ Ethan White's teaching materials for the Near Term Ecological Forecasting Summer
 * [Portal Forecasting Project Introduction](https://docs.google.com/presentation/d/1MMbL1cTOl10m6PWGaTfvehqEJxzWQLqtQu-U3KycnAg/edit?usp=sharing)
 * Machine Learning for Ecological Forecasting
   * [Slides](https://docs.google.com/presentation/d/1ZJc1c0ecRT5_NKa_Mq2arpJ6CABNPr47GtSud3QKpIY/edit?usp=sharing)
+  * [Notes for White Board explanation](https://github.com/ethanwhite/nefi-summer-course/blob/master/EDM-board-notes.pdf)
   * [Empirical Dynamic Modeling code-along](https://htmlpreview.github.io/?https://github.com/ethanwhite/nefi-summer-course/blob/master/rEDM-code-along.html)
+  * [Video explanation of EDM](https://movie-usa.glencoesoftware.com/video/10.1073/pnas.1417063112/video-1)
