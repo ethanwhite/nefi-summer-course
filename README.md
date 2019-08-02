@@ -11,4 +11,6 @@ Ethan White's teaching materials for the Near Term Ecological Forecasting Summer
 * Forecast Infrastructure & Automation
   * [Slides](https://docs.google.com/presentation/d/1Zmd4NgHpb1pPHjaHjYPoEd0S7k7_CIsWVKyM60GThl0/edit?usp=sharing)
   * [Demo](automation-demo.md)
+  * [Automation for Data Paper](https://doi.org/c82f)
+  * [Travis setup walkthrough](https://www.updatingdata.org)
   * [Faster binder R setup](https://github.com/karthik/rstudio2019/blob/master/binder-notes.md)
