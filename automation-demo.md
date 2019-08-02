@@ -110,8 +110,13 @@ r-2019-08-01
 * Go to https://mybinder.org
 * Paste in url and click **Launch**
 * *This will take a while so it's a time for questions*
+  * There are [faster ways to setup binder for R](https://github.com/karthik/rstudio2019/blob/master/binder-notes.md)
 * **New** -> **RStudio**
 * Open `forecast.R`
 * Run
 
-(faster binder R setup: https://github.com/karthik/rstudio2019/blob/master/binder-notes.md)
+* To integrate this with automation we use docker containers
+  to run code that we want to rerun on a regular basis
+* Walk through portalPredictions `.travis.yml`
+    * https://github.com/weecology/portalPredictions/blob/master/.travis.yml
+* And we can do similar things if we're working with a more complex system like OpenWhisk
