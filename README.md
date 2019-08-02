@@ -8,3 +8,7 @@ Ethan White's teaching materials for the Near Term Ecological Forecasting Summer
   * [Notes for White Board explanation](https://github.com/ethanwhite/nefi-summer-course/blob/master/EDM-board-notes.pdf)
   * [Empirical Dynamic Modeling code-along](https://htmlpreview.github.io/?https://github.com/ethanwhite/nefi-summer-course/blob/master/rEDM-code-along.html)
   * [Video explanation of EDM](https://movie-usa.glencoesoftware.com/video/10.1073/pnas.1417063112/video-1)
+* Forecast Infrastructure & Automation
+  * [Slides](https://docs.google.com/presentation/d/1Zmd4NgHpb1pPHjaHjYPoEd0S7k7_CIsWVKyM60GThl0/edit?usp=sharing)
+  * [Demo](automation-demo.md)
+  * [Faster binder R setup](https://github.com/karthik/rstudio2019/blob/master/binder-notes.md)
